@@ -1,0 +1,8 @@
+{
+  "name": "Caja Menor DIAN - Impresos El Día S.A.S.",
+  "description": "Plataforma de gestión de caja menor para Impresos El Día S.A.S. (Medellín) con estricto cumplimiento DIAN, control de fraccionamiento, arqueo por denominaciones en COP y contabilización PUC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
